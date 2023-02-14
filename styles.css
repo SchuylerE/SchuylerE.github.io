@@ -1,4 +1,9 @@
-body{
-  background: rgb(104, 200, 238);
-  font-family: Arial, Helvetica, sans-serif;
+body { 
+    background: skyblue;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1 { 
+    color: darkmagenta; 
+    text-align: center;
 }
