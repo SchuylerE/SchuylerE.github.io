@@ -8,13 +8,14 @@ body {
     padding: 10px;
     margin: 10px;
     background-color:#ABB3FF;
+    border: 4px solid #7A86D3;
     border-radius: 35px;
 }
 
 .assignment img {
     width: 200px;
     margin: 10px;
-    border: 4px solid #717ECF;
+    border: 4px solid #7A86D3;
     border-radius: 10px;
 }
 
@@ -29,9 +30,9 @@ h1 {
 
 a {
     text-decoration: none;
-    color: #5766F1;
+    color: #6371F3;
 }
 
 a:hover {
-    color:#D6DCFF;
+    color:#FCEBFC;
 }
